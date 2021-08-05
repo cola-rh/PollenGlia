@@ -1,0 +1,6 @@
+rds
+rds/
+Rplots.pdf
+.RData*
+PollenGlia_cola_rh.rds
+PollenGlia_data.rds
